@@ -1,2 +1,13 @@
 Alan Hsueh, athsueh@ucsc.edu
 Host name: unix2.ic.ucsc.edu
+
+Usage:
+Run the java program with output such that it outputs to test.output.
+
+"java jfmt input1.dat > test.output"
+
+or
+
+"./jfmt input1.dat > test.output"
+
+
